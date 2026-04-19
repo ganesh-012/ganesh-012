@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ganesh Pandrameesu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, Typescript, Docker**
+- 🌱 I’m currently learning **Docker, kubernetes,System design**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ganesh-012](https://www.github.com/ganesh-012)
 
-- 💬 Ask me about **Docker, Typescript, node.js**
+- 💬 Ask me about **Docker, Typescript, next.js, node.js**
 
 - 📫 How to reach me **pandrameesuganesh@gmail.com**
 
